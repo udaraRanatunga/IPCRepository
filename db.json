@@ -1,8 +1,11 @@
-[  
-	{
-	  "id":1,
-      "duration": 10,
-      "seated": 1,
-      "value": 120
-    }
-]
+{
+"data" :
+	[  
+		{
+		  "id":1,
+		  "duration": 10,
+		  "seated": 1,
+		  "value": 120
+		}
+	]
+}
